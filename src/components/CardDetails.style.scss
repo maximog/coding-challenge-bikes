@@ -1,0 +1,33 @@
+.main-div-details {
+    border: 2px solid black;
+    display: flex;
+    width: 80%;
+    // justify-content: center;
+    // align-items: center;
+    margin-left: 10%;
+    height: auto;
+    margin-bottom: 10px;
+
+}
+
+.card-details-img {
+    width: 300px;
+    height: 300px;
+    img {
+        width: 300px;
+        height: 300px;
+        object-fit: fill;
+    }
+    margin-left: 20px;
+}
+
+.card-details-map {
+    display: flex;
+    flex-direction: column;
+    position: relative;
+    margin-left: 50px;
+}
+
+.card-details-info {
+    width: 100%;
+}

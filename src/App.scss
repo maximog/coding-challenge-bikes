@@ -1,0 +1,26 @@
+a {
+  text-decoration: none;
+  color: darkblue;
+}
+
+a:visited {
+  color: darkblue;
+  text-decoration: none;
+}
+
+.title {
+  text-align: center;
+}
+
+.search {
+  text-align: center;
+}
+
+.total-results {
+  text-align: end;
+  padding-right: 300px;
+}
+
+.other-pages {
+  text-align: center;
+}
